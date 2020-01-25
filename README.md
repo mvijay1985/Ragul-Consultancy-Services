@@ -33,7 +33,7 @@ Ragul Consultancy Services </font></marquee>
 </html>
 
 
-[Computer Program Coaching Registration Form](resource/studentregistration.html){:target="_blank"}
+[Job Registration Form](resource/studentregistration.html){:target="_blank"}
 
 
 ## Contact
