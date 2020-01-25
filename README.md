@@ -51,4 +51,4 @@ Email id : ragulkumar48@gmail.com
 </html>
 
 ## Location
-[Google Map](https://www.google.co.il/maps/place/9%C2%B024'47.4%22N+77%C2%B055'18.7%22E/@9.4131879,77.9206095,310m/data=!3m1!1e3!4m14!1m7!3m6!1s0x3b06cb5201962cbb:0x22e3f3b4dbda1be3!2sE.Muthulingapuram,+Naduvapatti,+Tamil+Nadu+626203,+India!3b1!8m2!3d9.4142058!4d77.922816!3m5!1s0x0:0x0!7e2!8m2!3d9.4131767!4d77.921857?hl=en&authuser=0){:target="_blank"}
+[Google Map](https://www.google.co.il/maps/place/Ragul+Consulting+Services/@9.412831,77.9211541,155m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x3b06cb5201962cbb:0x22e3f3b4dbda1be3!2sE.Muthulingapuram,+Naduvapatti,+Tamil+Nadu+626203,+India!3b1!8m2!3d9.4142058!4d77.922816!3m4!1s0x3b06cbb3d624f5c3:0xc81b76f745ce1dd9!8m2!3d9.412831!4d77.9217013?hl=en&authuser=0){:target="_blank"}
