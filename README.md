@@ -38,7 +38,7 @@ Email id : ragulkumar48@gmail.com
 
 ## Local Weather
 <html>
-<a class="weatherwidget-io" href="https://www.google.com/search?q=weather+E.+Muthulingapuram&oq=weather++E.+Muthulingapuram+&aqs=chrome..69i57.9389j1j8&sourceid=chrome&ie=UTF-8" data-label_1="SATTUR" data-label_2="WEATHER" data-theme="original" > E. Muthulingapuram WEATHER</a>
+<a class="weatherwidget-io" href="https://forecast7.com/en/9d4177d92/emuthulingapuram/" data-label_1="E.MUTHULINGAPURAM" data-label_2="WEATHER" data-theme="original" >E.MUTHULINGAPURAM WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
