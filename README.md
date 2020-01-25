@@ -1,4 +1,4 @@
-# Ragul Consultancy Services ராகுல் கன்சல்டிங் சர்வீசஸ்
+# Ragul Consultancy Services 
 
 
 <html>
