@@ -30,7 +30,7 @@ Ragul Consultancy Services </font></marquee>
 
 [Job Registration Form](resource/studentregistration.html){:target="_blank"}
 
-## Governement websites
+## Government websites
 * [Employees Provident Fund Organisation, India EPFO](https://www.epfindia.gov.in/site_en/For_Employers.php){:target="_blank"}
 * [Shramsuvidha](https://shramsuvidha.gov.in/home){:target="_blank"}
 * [Chief Labour Commissioner Acts and Rules](https://clc.gov.in/clc/acts-rules/acts-and-rules-0){:target="_blank"}
@@ -44,7 +44,7 @@ Email id : ragulkumar48@gmail.com
 
 ## Local Weather
 <html>
-<a class="weatherwidget-io" href="https://forecast7.com/en/9d4177d92/emuthulingapuram/" data-label_1="E.MUTHULINGAPURAM" data-label_2="WEATHER" data-theme="original" >E.MUTHULINGAPURAM WEATHER</a>
+<a class="weatherwidget-io" href="https://forecast7.com/en/9d4177d92/emuthulingapuram/" data-label_1="E.MUTHULINGAPURAM" data-label_2="WEATHER" data-theme="original" >E. Muthulingapuram Weather</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
