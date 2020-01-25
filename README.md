@@ -23,7 +23,7 @@ Ragul Consultancy Services </font></marquee>
 </html>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="5" color="red"> 	Company jobs, Salary weekly and Monthly Basis, PF and Bonus as per state and central Govenment rules regulations   
+<marquee behavior="scroll" direction="left"> <font size="5" color="red"> 	Company jobs, Salary weekly and Monthly Basis, PF and Bonus as per state and central Govenment rules and regulations ........   
 </font></marquee>
 </html>
 
@@ -32,8 +32,8 @@ Ragul Consultancy Services </font></marquee>
 
 ## Contact
 **S. Raja**,
-Ragul Consulting Services,
-2/47, RC Street, E. Muthulingapuram, Naudvapatt PO, Sattur TK, Virudhunagar DT
+**Ragul Consulting Services,**
+2/47, RC Street, E. Muthulingapuram, Naudvapatt PO, Sattur TK, Virudhunagar DT,
 Email id : ragulkumar48@gmail.com 
 
 ## Local Weather
