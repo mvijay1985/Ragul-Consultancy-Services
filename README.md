@@ -1,4 +1,4 @@
-# Ragul-Consultancy-
+# Ragul Consultancy Services
 
 <html>
 <meta charset="utf-8">
@@ -6,8 +6,6 @@
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> 
 Ragul Consultancy Services </font></marquee>
 </html>
-
-# Ragul Consultancy Services
 
 <html>
 <div class="col-sm-4">  
