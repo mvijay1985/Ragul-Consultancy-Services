@@ -30,6 +30,13 @@ Ragul Consultancy Services </font></marquee>
 
 [Job Registration Form](resource/studentregistration.html){:target="_blank"}
 
+## Governement websites
+* [Employees' Provident Fund Organisation, India
+Ministry of Labour & Employment, Government of India EPFO](https://www.epfindia.gov.in/site_en/For_Employers.php){:target="_blank"}
+* [Shramsuvidha](https://shramsuvidha.gov.in/home){:target="_blank"}
+* [Chief Labour Commissioner Acts and Rules](https://clc.gov.in/clc/acts-rules/acts-and-rules-0){:target="_blank"}
+
+
 ## Contact
 **S. Raja**,
 **Ragul Consulting Services,**
