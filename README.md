@@ -28,7 +28,7 @@ Ragul Consultancy Services </font></marquee>
 </font></marquee>
 </html>
 
-[Job Registration Form](resource/studentregistration.html){:target="_blank"}
+[Job Registration Form](resource/Application.html){:target="_blank"}
 
 ## Government websites
 * [Employees Provident Fund Organisation, India EPFO](https://www.epfindia.gov.in/site_en/For_Employers.php){:target="_blank"}
