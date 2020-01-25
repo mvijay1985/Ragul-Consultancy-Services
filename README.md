@@ -26,12 +26,6 @@ Ragul Consultancy Services </font></marquee>
 <marquee behavior="scroll" direction="left"> <font size="5" color="red"> 	Company jobs, Salary weekly and Monthly Basis, PF and Bonus as per state and central Govenment rules regulations   
 </font></marquee>
 </html>
- 
-<html>
-<marquee behavior="scroll" direction="left"> <font size="5" color="green"> 	Printout	A4-Paper-1page-2Rs, A3-Paper-1page-6Rs, Legal-Paper-1page-3Rs
-</font></marquee>
-</html>
-
 
 [Job Registration Form](resource/studentregistration.html){:target="_blank"}
 
@@ -44,6 +38,9 @@ Email id : ragulkumar48@gmail.com
 
 <html>
 <a class="weatherwidget-io" href="https://www.google.com/search?q=weather+E.+Muthulingapuram&oq=weather++E.+Muthulingapuram+&aqs=chrome..69i57.9389j1j8&sourceid=chrome&ie=UTF-8" data-label_1="SATTUR" data-label_2="WEATHER" data-theme="original" > E. Muthulingapuram WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script><a class="weatherwidget-io" href="https://forecast7.com/en/9d4177d92/emuthulingapuram/" data-label_1="E.MUTHULINGAPURAM" data-label_2="WEATHER" data-theme="original" >E.MUTHULINGAPURAM WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
